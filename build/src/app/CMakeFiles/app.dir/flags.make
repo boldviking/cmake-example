@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/boldviking/Workspace/cmake-example/src/libb -I/home/boldviking/Workspace/cmake-example/src/liba
 
 CXX_FLAGS = 
 

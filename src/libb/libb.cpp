@@ -1,3 +1,5 @@
+#include <string>
+
 #include "liba.h"
 
 std::string hello_world()

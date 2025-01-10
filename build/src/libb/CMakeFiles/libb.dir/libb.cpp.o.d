@@ -1,5 +1,5 @@
-src/liba/CMakeFiles/liba.dir/liba.cpp.o: \
- /home/boldviking/Workspace/cmake-example/src/liba/liba.cpp \
+src/libb/CMakeFiles/libb.dir/libb.cpp.o: \
+ /home/boldviking/Workspace/cmake-example/src/libb/libb.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -102,4 +102,5 @@ src/liba/CMakeFiles/liba.dir/liba.cpp.o: \
  /usr/include/c++/14.2.1/cstddef \
  /usr/include/c++/14.2.1/bits/uses_allocator.h \
  /usr/include/c++/14.2.1/bits/uses_allocator_args.h \
- /usr/include/c++/14.2.1/tuple
+ /usr/include/c++/14.2.1/tuple \
+ /home/boldviking/Workspace/cmake-example/src/liba/liba.h
