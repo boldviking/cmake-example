@@ -1,0 +1,13 @@
+/home/boldviking/Workspace/cmake-example/build/CMakeFiles/edit_cache.dir
+/home/boldviking/Workspace/cmake-example/build/CMakeFiles/rebuild_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/CMakeFiles/edit_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/CMakeFiles/rebuild_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/app/CMakeFiles/app.dir
+/home/boldviking/Workspace/cmake-example/build/src/app/CMakeFiles/edit_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/app/CMakeFiles/rebuild_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/liba/CMakeFiles/liba.dir
+/home/boldviking/Workspace/cmake-example/build/src/liba/CMakeFiles/edit_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/liba/CMakeFiles/rebuild_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/libb/CMakeFiles/libb.dir
+/home/boldviking/Workspace/cmake-example/build/src/libb/CMakeFiles/edit_cache.dir
+/home/boldviking/Workspace/cmake-example/build/src/libb/CMakeFiles/rebuild_cache.dir
