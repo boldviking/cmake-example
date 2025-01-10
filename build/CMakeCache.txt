@@ -243,8 +243,26 @@ Workspace_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Workspace_SOURCE_DIR:STATIC=/home/boldviking/Workspace/cmake-example
 
+//Value Computed by CMake
+liba_BINARY_DIR:STATIC=/home/boldviking/Workspace/cmake-example/build/src/liba
+
+//Value Computed by CMake
+liba_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+liba_SOURCE_DIR:STATIC=/home/boldviking/Workspace/cmake-example/src/liba
+
+//Value Computed by CMake
+libb_BINARY_DIR:STATIC=/home/boldviking/Workspace/cmake-example/build/src/libb
+
+//Value Computed by CMake
+libb_IS_TOP_LEVEL:STATIC=OFF
+
 //Dependencies for the target
 libb_LIB_DEPENDS:STATIC=general;liba;
+
+//Value Computed by CMake
+libb_SOURCE_DIR:STATIC=/home/boldviking/Workspace/cmake-example/src/libb
 
 
 ########################

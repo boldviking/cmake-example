@@ -191,6 +191,15 @@ src/app/CMakeFiles/app.dir/main.cpp.o: /home/boldviking/Workspace/cmake-example/
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h
 
+src/app/app: /usr/lib/libc.so \
+  /usr/lib/libgcc_s.so \
+  /usr/lib/libm.so \
+  /usr/lib/ld-linux-x86-64.so.2
+
+
+/usr/lib/libm.so:
+
+/usr/lib/libc.so:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h:
 
@@ -442,6 +451,8 @@ src/app/CMakeFiles/app.dir/main.cpp.o: /home/boldviking/Workspace/cmake-example/
 
 /usr/include/bits/select.h:
 
+/usr/lib/libgcc_s.so:
+
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
 
 /usr/include/bits/struct_mutex.h:
@@ -471,6 +482,8 @@ src/app/CMakeFiles/app.dir/main.cpp.o: /home/boldviking/Workspace/cmake-example/
 /usr/include/bits/uintn-identity.h:
 
 /usr/include/c++/14.2.1/bits/char_traits.h:
+
+/usr/lib/ld-linux-x86-64.so.2:
 
 /usr/include/c++/14.2.1/bits/concept_check.h:
 
